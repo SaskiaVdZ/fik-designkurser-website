@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /data/
+Disallow: /doc/
+Disallow: /img/
+Disallow: /js/
+Disallow: /sok-nu.php
+Disallow: /tack.php
+Disallow: /analyticstracking.php
